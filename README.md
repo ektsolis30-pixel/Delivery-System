@@ -12,4 +12,4 @@ Additionally, the delivery system program requires the following resources:
 - Database
 - Security & Access control
 
-I hope this will help you make your own delivery system! If you have further questions, please contact @ektsolis30@src.pshs.edu.ph or @emesinagan@src.pshs.edu.ph
+May this brief introduction have helped you. Enjoy using, user. However, be it that you have queries regarding our program, kindly contact emesinagan30@src.pshs.edu.ph or ektsolis30@src.pshs.edu.ph
