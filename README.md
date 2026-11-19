@@ -5,3 +5,9 @@ This project is a system to keep track of deliveries and make them organized, ea
 Delivery System Tips
 1.) Sketch out your system using a class diagram
 2.) Use a strict order status flow
+
+Additionally, the delivery system program requires the following resources:
+- CPU and Memory (RAM)
+- Network
+- Database
+- Security & Access control
